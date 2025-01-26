@@ -1,0 +1,21 @@
+/*my ccc*/
+.card-login{
+	background: #ffffff;
+	padding-top: 20px;
+	cursor: pointer;
+}
+.card-login p{
+padding: 20px 0px;
+font-size: 16px;
+text-transform: uppercase;
+}
+.price-circle-green {
+	background: #20c997;
+    width: 112px;
+    height: 112px;
+    margin: auto;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: 0px 0px 0px 3px #20c997;
+}
+

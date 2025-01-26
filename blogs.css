@@ -1,0 +1,30 @@
+.blog h1{
+    font-family: "Poppins", sans-serif;
+    color: black;
+    font-size: 2rem;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    padding: 1.2vw;
+}
+.blog h5{
+    color: #FE4A55;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    margin-left: 12vw;
+    margin-right: 12vw;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.lg\:mb-0:hover{
+    font-weight: 900;
+}
+.text-gray-900{
+    font-family: "Poppins", sans-serif;
+}
+.text-gray-900:hover{
+    color: #FE4A55;
+}

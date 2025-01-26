@@ -1,0 +1,28 @@
+.sm\:w-32{
+    background-color: white;
+}
+@media(min-width:640px){
+    .sm\:w-32 {
+        background-color: white;
+    }
+}
+.sm\:text-4xl {
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5rem;
+}
+.leading-relaxed {
+    font-family: "Poppins", sans-serif;
+    color: #606060;
+    margin-bottom: 15px;
+    line-height: 1.7;
+    font-size: 1rem;
+    line-height: 1.625;
+}
+.sm\:text-3xl {
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.w-8{
+    background-color:rgb(243 244 246) ;
+}
